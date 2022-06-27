@@ -1,0 +1,22 @@
+.registerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputContainer {
+    padding: auto;
+    margin: auto;
+
+
+}
+.buttonContainer {
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.errorContainer {
+    color: red;
+    font-size: 10px;
+}

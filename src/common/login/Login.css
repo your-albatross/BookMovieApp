@@ -1,0 +1,23 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputContainer {
+    padding: auto;
+    margin: auto;
+
+
+}
+.buttonContainer {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+
+}

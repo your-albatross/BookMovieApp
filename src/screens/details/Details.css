@@ -1,0 +1,38 @@
+.back {
+    cursor: pointer;
+    height: 24px;
+    margin: 8px 0 0 24px;
+    text-decoration: none;
+}
+.link {
+    text-decoration: none;
+}
+.detailsContainer {
+    height : 100vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+.posterCard {
+    flex: 20%;
+    
+    margin-left: 24px;
+    
+}
+.mainContent {
+    flex: 60%;
+    
+    padding-left: 24px;
+    padding-right: 12px;
+}
+.ratingContent {
+    flex: 20%;
+    padding-right: 12px;
+}
+.para {
+    margin-top: 16px;
+}
+.ratingStar {
+    height: 30px;
+    
+}

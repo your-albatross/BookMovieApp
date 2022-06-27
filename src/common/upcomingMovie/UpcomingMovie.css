@@ -1,0 +1,28 @@
+
+.container {
+   
+    width: 100%;
+    background-color: aqua;
+}
+.upComingHeader {
+    background-color: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.listContainer {
+    display: 'flex';
+    flex-wrap: wrap;
+    justify-content: 'space-around';
+    overflow: 'hidden'
+}
+
+.gridList {
+    flex-wrap: nowrap;
+    transform: 'translateZ(0)';
+}
+
+.title {
+    color:grey
+}
